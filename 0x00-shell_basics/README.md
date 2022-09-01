@@ -7,3 +7,4 @@
 6-firstdirectory -creates a new directory
 7-movethatfile -this script moves files
 8-firstdelete - this script deletes files
+9-firstdirdeletion -this script deletes directories

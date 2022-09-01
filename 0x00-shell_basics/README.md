@@ -11,3 +11,4 @@
 10-back -this script changes the current working directory yo the previous one
 11-lists - this script lists all files
 12-file_type - this script prints the type of the file
+13-symbolic_link - this script creates a symbolic link

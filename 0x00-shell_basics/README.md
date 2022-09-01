@@ -6,3 +6,4 @@
 5-listfilesdigitonly -list content of a working directory including hidden ones with periods
 6-firstdirectory -creates a new directory
 7-movethatfile -this script moves files
+8-firstdelete - this script deletes files

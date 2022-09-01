@@ -10,3 +10,4 @@
 9-firstdirdeletion -this script deletes directories
 10-back -this script changes the current working directory yo the previous one
 11-lists - this script lists all files
+12-file_type - this script prints the type of the file
